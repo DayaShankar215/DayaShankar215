@@ -3,7 +3,7 @@
 # Daya Shankar Adhikari
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver;Building+Meaningful+Digital+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Web+Application+Builder;Problem+Solver;Building+Useful+Digital+Products" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daya-shankar-adhikari-85236030a/)
@@ -15,18 +15,15 @@
 
 ---
 
-## About Me
+## About
 
-I am a passionate and detail-oriented software developer focused on building modern, scalable, and user-friendly digital products. I enjoy turning ideas into practical solutions with clean code, strong UX, and maintainable architecture.
+I am a developer who enjoys building practical web applications and turning ideas into working products. My work focuses on clean code, responsive interfaces, and solving real-world problems with modern tools.
 
-- 💻 Full-stack developer
-- ⚙️ Interested in modern web technologies and product development
-- 🧩 Problem-focused, detail-driven, and continuous learner
-- 🌍 Building solutions that are practical, efficient, and impactful
+I like building things that are useful, readable, and easy to maintain. I am especially interested in full-stack development, product thinking, and creating smooth user experiences.
 
 ---
 
-## Tech Stack
+## Core Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -42,7 +39,7 @@ I am a passionate and detail-oriented software developer focused on building mod
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-### Tools & Platforms
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudio&logoColor=white)
@@ -50,52 +47,67 @@ I am a passionate and detail-oriented software developer focused on building mod
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 1. College Management System
-A full-stack academic management platform designed to simplify student, faculty, and administrative workflows.
+### College Management System
+A practical full-stack project for managing academic workflows and institutional operations.
 
-- Role-based operations
-- Structured data handling
-- Practical academic management workflow
+- Student and faculty related workflows
+- Management-focused web application
+- Built for real-world use cases
 
 [Repository](https://github.com/DayaShankar215/college-management-system)
 
-### 2. Phishing URL & Scam Message Detection Frontend
-A frontend project focused on building a secure and user-friendly analysis interface for suspicious links and messages.
+### Phishing URL & Scam Message Detection Frontend
+A frontend-focused project centered around user-facing analysis and threat awareness in a web app.
 
-- User-friendly dashboard
-- Threat awareness
-- Practical UI for security-related workflows
+- Security-themed interface
+- Practical workflow for suspicious link review
+- Clean interaction design
 
 [Repository](https://github.com/DayaShankar215/Phishingg-URL-and-Scam-message-detection-frontend)
 
-### 3. Janaki Website
-A clean and responsive website built with a strong focus on modern design, usability, and performance.
+### Janaki Website
+A responsive website built with attention to layout, usability, and modern presentation.
 
-- Responsive layout
-- Modern UI
-- User-focused experience
+- Portfolio-like experience
+- Clean and readable design
+- Mobile-friendly layout
 
 [Repository](https://github.com/DayaShankar215/Janaki-Website)
 
-### 4. Django Project
-A backend-focused application built with Python and Django to explore system design, logic flow, and scalable application patterns.
+### DjangoProject
+A backend-oriented project built to explore Python and Django application patterns.
 
-- Django architecture
-- API-ready structure
-- Business logic implementation
+- Server-side development
+- Logic and data handling
+- Scalable web application structure
 
 [Repository](https://github.com/DayaShankar215/DjangoProject)
 
-### 5. Personal Portfolio
-A portfolio website built to present projects, experience, and digital identity in a polished and professional way.
+### my-portfolio
+A personal portfolio website used to present work, projects, and professional identity in a cleaner way.
 
 - Personal brand presentation
-- Responsive experience
-- Clean presentation of work
+- Portfolio-style layout
+- Responsive design
 
 [Repository](https://github.com/DayaShankar215/my-portfolio)
+
+### Note_app
+A lightweight application built to understand practical note-taking workflows and simple UI patterns.
+
+[Repository](https://github.com/DayaShankar215/Note_app)
+
+---
+
+## What I Value
+
+- Clean and understandable code
+- User experience over complexity
+- Building products that solve real problems
+- Learning by doing
+- Clear communication and practical implementation
 
 ---
 
@@ -113,17 +125,6 @@ A portfolio website built to present projects, experience, and digital identity 
 
 ---
 
-## Professional Focus
-
-- Web application development
-- Frontend and backend integration
-- Responsive and user-friendly UI design
-- Practical product building
-- Clean, maintainable software architecture
-- Continuous learning and technical growth
-
----
-
 ## Connect
 
 - LinkedIn: [Daya Shankar Adhikari](https://www.linkedin.com/in/daya-shankar-adhikari-85236030a/)
@@ -135,7 +136,7 @@ A portfolio website built to present projects, experience, and digital identity 
 
 <div align="center">
 
-### Building practical solutions with a modern approach.
+### Building practical solutions with a clean and modern approach.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DayaShankar215&color=5eead4&style=flat-square)
 
